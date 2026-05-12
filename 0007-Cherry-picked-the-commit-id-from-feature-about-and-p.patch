@@ -1,0 +1,31 @@
+From 01ff1cd6c723752756be92296d670f696f793f05 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 12:26:53 +0530
+Subject: [PATCH 7/8] Cherry picked the commit id from feature-about and pasted
+ here
+
+---
+ gitPractice.html | 7 -------
+ 1 file changed, 7 deletions(-)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index c747aeb..72c5fd5 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -7,12 +7,5 @@
+ <body> 
+   <h1>Hello World</h1> 
+   <p>This is a sample project.</p> 
+-  <section id="About">
+-  <h1>About me</h1>
+-  <p>
+-    I am currently an intern at Psiog Digital
+-  </p>
+-  </section>
+-  <footer>© 2025 MySite</footer>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+

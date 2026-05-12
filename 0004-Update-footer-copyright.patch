@@ -1,0 +1,25 @@
+From 1bbc3aaeb7cdf2cbb1b6e70152f648dd0878d112 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 14:08:28 +0530
+Subject: [PATCH 4/8] Update footer copyright
+
+---
+ gitPractice.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index c68ef3a..c747aeb 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -13,6 +13,6 @@
+     I am currently an intern at Psiog Digital
+   </p>
+   </section>
+-  <footer>Contact us at email@example.com</footer>
++  <footer>© 2025 MySite</footer>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+

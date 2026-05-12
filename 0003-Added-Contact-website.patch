@@ -1,0 +1,25 @@
+From 1ec193a5b56dda09461de934e41d98272b9efea7 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 13:55:41 +0530
+Subject: [PATCH 3/8] Added Contact@website
+
+---
+ gitPractice.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index c68ef3a..bc23869 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -13,6 +13,6 @@
+     I am currently an intern at Psiog Digital
+   </p>
+   </section>
+-  <footer>Contact us at email@example.com</footer>
++  <footer>Contact us at contact@website.com</footer>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+

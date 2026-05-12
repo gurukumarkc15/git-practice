@@ -1,0 +1,44 @@
+From 466c9589926e278ad98cdcdd26852b1d852c2b74 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 15:53:38 +0530
+Subject: [PATCH 6/8] final commit
+
+---
+ gitPractice.html | 25 +++++++++++++++++--------
+ 1 file changed, 17 insertions(+), 8 deletions(-)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index c8c28a8..c747aeb 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -1,9 +1,18 @@
+-<!DOCTYPE html>
+-<html>
+-    <head>
+-        <title>Git Practice</title>
+-    </head>
+-    <body>
+-        Sample html code
+-    </body>
++<!-- index.html --> 
++<!DOCTYPE html> 
++<html> 
++<head> 
++  <title>My Project</title> 
++</head> 
++<body> 
++  <h1>Hello World</h1> 
++  <p>This is a sample project.</p> 
++  <section id="About">
++  <h1>About me</h1>
++  <p>
++    I am currently an intern at Psiog Digital
++  </p>
++  </section>
++  <footer>© 2025 MySite</footer>
++</body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+

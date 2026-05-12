@@ -1,0 +1,24 @@
+From 5fe3d1713bcc8b0b4b4c0c1f3c309b43505dddd0 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 13:54:47 +0530
+Subject: [PATCH 2/8] Added base footer in master
+
+---
+ gitPractice.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index a19ac55..c68ef3a 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -13,5 +13,6 @@
+     I am currently an intern at Psiog Digital
+   </p>
+   </section>
++  <footer>Contact us at email@example.com</footer>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+

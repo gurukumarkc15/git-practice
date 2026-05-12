@@ -1,0 +1,30 @@
+From f9c1c5caa058846f5bf7a3312d9bea2c060cec32 Mon Sep 17 00:00:00 2001
+From: Gurukumar <gurukumarkc18@gmail.com>
+Date: Tue, 12 May 2026 16:12:38 +0530
+Subject: [PATCH] UndoCherrypick
+
+---
+ gitPractice.html | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+diff --git a/gitPractice.html b/gitPractice.html
+index 72c5fd5..c747aeb 100644
+--- a/gitPractice.html
++++ b/gitPractice.html
+@@ -7,5 +7,12 @@
+ <body> 
+   <h1>Hello World</h1> 
+   <p>This is a sample project.</p> 
++  <section id="About">
++  <h1>About me</h1>
++  <p>
++    I am currently an intern at Psiog Digital
++  </p>
++  </section>
++  <footer>© 2025 MySite</footer>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+
